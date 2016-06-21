@@ -1,0 +1,16 @@
+[submodule "veraPDF-rest"]
+	path = veraPDF-rest
+	url = git@github.com:veraPDF/veraPDF-rest.git
+	branch = integration
+[submodule "veraPDF-library"]
+	path = veraPDF-library
+	url = git@github.com:veraPDF/veraPDF-library.git
+[submodule "veraPDF-model"]
+	path = veraPDF-model
+	url = git@github.com:veraPDF/veraPDF-model.git
+[submodule "veraPDF-pdfbox"]
+	path = veraPDF-pdfbox
+	url = git@github.com:veraPDF/veraPDF-pdfbox.git
+[submodule "veraPDF-pdfbox-validation"]
+	path = veraPDF-pdfbox-validation
+	url = git@github.com:veraPDF/veraPDF-pdfbox-validation.git
