@@ -14,3 +14,7 @@
 [submodule "veraPDF-pdfbox-validation"]
 	path = veraPDF-pdfbox-validation
 	url = git@github.com:veraPDF/veraPDF-pdfbox-validation.git
+[submodule "veraPDF-apps"]
+	path = veraPDF-apps
+	url = git@github.com:veraPDF/veraPDF-apps.git
+	branch = integration
